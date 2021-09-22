@@ -1,8 +1,8 @@
 ## Olá, Eu sou Deividy
 
   <div>
-  <a href="https://github.com/Deividy-Ferreira-Nascimento">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deividy-Ferreira-Nascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/fnsdeividy">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsdeividy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deividy-Ferreira-Nascimento&layout=compact&langs_count=7&theme=dracula"/>
  
 <div style="display: inline_block"><br>
