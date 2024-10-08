@@ -1,7 +1,7 @@
 ## Deividy Ferreira
 
  
-Software Enginer | Fullstack Developer.
+Software Engineer | Fullstack Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deividy-ferreira-94353721a/)](https://www.linkedin.com/in/deividy-ferreira-94353721a/)
 [![Gmail Badge](https://img.shields.io/badge/-fnsdeividy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fnsdeividy@gmail.com)](mailto:fnsdeividy@gmail.com)
